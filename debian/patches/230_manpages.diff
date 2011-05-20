@@ -1,0 +1,1384 @@
+--- libsdl1.2-1.2.13.orig/docs/man3/SDL_UnlockYUVOverlay.3
++++ libsdl1.2-1.2.13/docs/man3/SDL_UnlockYUVOverlay.3
+@@ -12,4 +12,4 @@
+ .SH "SEE ALSO"
+ .PP
+ \fI\fBSDL_UnlockYUVOverlay\fP\fR, \fI\fBSDL_CreateYUVOverlay\fP\fR, \fI\fBSDL_Overlay\fR\fR
+-...\" created by instant / docbook-to-man, Tue 11 Sep 2001, 23:01
++.\" created by instant / docbook-to-man, Tue 11 Sep 2001, 23:01
+--- libsdl1.2-1.2.13.orig/docs/man3/SDL_ShowCursor.3
++++ libsdl1.2-1.2.13/docs/man3/SDL_ShowCursor.3
+@@ -17,4 +17,4 @@
+ .SH "SEE ALSO"
+ .PP
+ \fI\fBSDL_CreateCursor\fP\fR, \fI\fBSDL_SetCursor\fP\fR
+-...\" created by instant / docbook-to-man, Tue 11 Sep 2001, 23:01
++.\" created by instant / docbook-to-man, Tue 11 Sep 2001, 23:01
+--- libsdl1.2-1.2.13.orig/docs/man3/SDL_GetCursor.3
++++ libsdl1.2-1.2.13/docs/man3/SDL_GetCursor.3
+@@ -12,4 +12,4 @@
+ .SH "SEE ALSO"
+ .PP
+ \fI\fBSDL_SetCursor\fP\fR, \fI\fBSDL_CreateCursor\fP\fR, \fI\fBSDL_ShowCursor\fP\fR
+-...\" created by instant / docbook-to-man, Tue 11 Sep 2001, 23:01
++.\" created by instant / docbook-to-man, Tue 11 Sep 2001, 23:01
+--- libsdl1.2-1.2.13.orig/docs/man3/SDL_CDtrack.3
++++ libsdl1.2-1.2.13/docs/man3/SDL_CDtrack.3
+@@ -37,4 +37,4 @@
+ .SH "SEE ALSO"
+ .PP
+ \fI\fBSDL_CD\fR\fR
+-...\" created by instant / docbook-to-man, Tue 11 Sep 2001, 22:59
++.\" created by instant / docbook-to-man, Tue 11 Sep 2001, 22:59
+--- libsdl1.2-1.2.13.orig/docs/man3/SDL_GetKeyName.3
++++ libsdl1.2-1.2.13/docs/man3/SDL_GetKeyName.3
+@@ -12,4 +12,4 @@
+ .SH "SEE ALSO"
+ .PP
+ \fI\fBSDLKey\fR\fR
+-...\" created by instant / docbook-to-man, Tue 11 Sep 2001, 22:59
++.\" created by instant / docbook-to-man, Tue 11 Sep 2001, 22:59
+--- libsdl1.2-1.2.13.orig/docs/man3/SDL_FreeWAV.3
++++ libsdl1.2-1.2.13/docs/man3/SDL_FreeWAV.3
+@@ -12,4 +12,4 @@
+ .SH "SEE ALSO"
+ .PP
+ \fI\fBSDL_LoadWAV\fP\fR
+-...\" created by instant / docbook-to-man, Tue 11 Sep 2001, 22:58
++.\" created by instant / docbook-to-man, Tue 11 Sep 2001, 22:58
+--- libsdl1.2-1.2.13.orig/docs/man3/SDL_CDPlay.3
++++ libsdl1.2-1.2.13/docs/man3/SDL_CDPlay.3
+@@ -15,4 +15,4 @@
+ .SH "SEE ALSO"
+ .PP
+ \fI\fBSDL_CDPlayTracks\fP\fR, \fI\fBSDL_CDStop\fP\fR
+-...\" created by instant / docbook-to-man, Tue 11 Sep 2001, 22:58
++.\" created by instant / docbook-to-man, Tue 11 Sep 2001, 22:58
+--- libsdl1.2-1.2.13.orig/docs/man3/SDL_BuildAudioCVT.3
++++ libsdl1.2-1.2.13/docs/man3/SDL_BuildAudioCVT.3
+@@ -20,4 +20,4 @@
+ .SH "SEE ALSO"
+ .PP
+ \fI\fBSDL_ConvertAudio\fP\fR, \fI\fBSDL_AudioCVT\fP\fR
+-...\" created by instant / docbook-to-man, Tue 11 Sep 2001, 22:58
++.\" created by instant / docbook-to-man, Tue 11 Sep 2001, 22:58
+--- libsdl1.2-1.2.13.orig/docs/man3/SDL_CDEject.3
++++ libsdl1.2-1.2.13/docs/man3/SDL_CDEject.3
+@@ -15,4 +15,4 @@
+ .SH "SEE ALSO"
+ .PP
+ \fI\fBSDL_CD\fR\fR
+-...\" created by instant / docbook-to-man, Tue 11 Sep 2001, 22:58
++.\" created by instant / docbook-to-man, Tue 11 Sep 2001, 22:58
+--- libsdl1.2-1.2.13.orig/docs/man3/SDL_ConvertSurface.3
++++ libsdl1.2-1.2.13/docs/man3/SDL_ConvertSurface.3
+@@ -21,4 +21,4 @@
+ .SH "SEE ALSO"
+ .PP
+ \fI\fBSDL_CreateRGBSurface\fP\fR, \fI\fBSDL_DisplayFormat\fP\fR, \fI\fBSDL_PixelFormat\fR\fR, \fI\fBSDL_Surface\fR\fR
+-...\" created by instant / docbook-to-man, Tue 11 Sep 2001, 23:01
++.\" created by instant / docbook-to-man, Tue 11 Sep 2001, 23:01
+--- libsdl1.2-1.2.13.orig/docs/man3/SDL_CreateRGBSurface.3
++++ libsdl1.2-1.2.13/docs/man3/SDL_CreateRGBSurface.3
+@@ -66,4 +66,4 @@
+ .SH "SEE ALSO"
+ .PP
+ \fI\fBSDL_CreateRGBSurfaceFrom\fP\fR, \fI\fBSDL_FreeSurface\fP\fR, \fI\fBSDL_SetVideoMode\fP\fR, \fI\fBSDL_LockSurface\fP\fR, \fI\fBSDL_PixelFormat\fR\fR, \fI\fBSDL_Surface\fR\fR \fI\fBSDL_SetAlpha\fP\fR \fI\fBSDL_SetColorKey\fP\fR
+-...\" created by instant / docbook-to-man, Tue 11 Sep 2001, 23:01
++.\" created by instant / docbook-to-man, Tue 11 Sep 2001, 23:01
+--- libsdl1.2-1.2.13.orig/docs/man3/SDL_UpdateRects.3
++++ libsdl1.2-1.2.13/docs/man3/SDL_UpdateRects.3
+@@ -22,4 +22,4 @@
+ .SH "SEE ALSO"
+ .PP
+ \fI\fBSDL_UpdateRect\fP\fR, \fI\fBSDL_Rect\fR\fR, \fI\fBSDL_Surface\fR\fR, \fI\fBSDL_LockSurface\fP\fR
+-...\" created by instant / docbook-to-man, Tue 11 Sep 2001, 23:01
++.\" created by instant / docbook-to-man, Tue 11 Sep 2001, 23:01
+--- libsdl1.2-1.2.13.orig/docs/man3/SDL_CondWaitTimeout.3
++++ libsdl1.2-1.2.13/docs/man3/SDL_CondWaitTimeout.3
+@@ -13,4 +13,4 @@
+ .SH "SEE ALSO"
+ .PP
+ \fI\fBSDL_CondWait\fP\fR
+-...\" created by instant / docbook-to-man, Tue 11 Sep 2001, 23:00
++.\" created by instant / docbook-to-man, Tue 11 Sep 2001, 23:00
+--- libsdl1.2-1.2.13.orig/docs/man3/SDL_SemPost.3
++++ libsdl1.2-1.2.13/docs/man3/SDL_SemPost.3
+@@ -25,4 +25,4 @@
+ .SH "SEE ALSO"
+ .PP
+ \fI\fBSDL_CreateSemaphore\fP\fR, \fI\fBSDL_DestroySemaphore\fP\fR, \fI\fBSDL_SemWait\fP\fR, \fI\fBSDL_SemTryWait\fP\fR, \fI\fBSDL_SemWaitTimeout\fP\fR, \fI\fBSDL_SemValue\fP\fR
+-...\" created by instant / docbook-to-man, Tue 11 Sep 2001, 23:00
++.\" created by instant / docbook-to-man, Tue 11 Sep 2001, 23:00
+--- libsdl1.2-1.2.13.orig/docs/man3/SDL_Color.3
++++ libsdl1.2-1.2.13/docs/man3/SDL_Color.3
+@@ -31,4 +31,4 @@
+ .SH "SEE ALSO"
+ .PP
+ \fI\fBSDL_PixelFormat\fR\fR, \fI\fBSDL_SetColors\fP\fR, \fI\fBSDL_Palette\fP\fR
+-...\" created by instant / docbook-to-man, Tue 11 Sep 2001, 23:01
++.\" created by instant / docbook-to-man, Tue 11 Sep 2001, 23:01
+--- libsdl1.2-1.2.13.orig/docs/man3/SDL_GetClipRect.3
++++ libsdl1.2-1.2.13/docs/man3/SDL_GetClipRect.3
+@@ -14,4 +14,4 @@
+ .SH "SEE ALSO"
+ .PP
+ \fI\fBSDL_SetClipRect\fP\fR, \fI\fBSDL_BlitSurface\fP\fR, \fI\fBSDL_Surface\fR\fR
+-...\" created by instant / docbook-to-man, Tue 11 Sep 2001, 23:01
++.\" created by instant / docbook-to-man, Tue 11 Sep 2001, 23:01
+--- libsdl1.2-1.2.13.orig/docs/man3/SDL_DestroySemaphore.3
++++ libsdl1.2-1.2.13/docs/man3/SDL_DestroySemaphore.3
+@@ -23,4 +23,4 @@
+ .SH "SEE ALSO"
+ .PP
+ \fI\fBSDL_CreateSemaphore\fP\fR, \fI\fBSDL_SemWait\fP\fR, \fI\fBSDL_SemTryWait\fP\fR, \fI\fBSDL_SemWaitTimeout\fP\fR, \fI\fBSDL_SemPost\fP\fR, \fI\fBSDL_SemValue\fP\fR
+-...\" created by instant / docbook-to-man, Tue 11 Sep 2001, 23:00
++.\" created by instant / docbook-to-man, Tue 11 Sep 2001, 23:00
+--- libsdl1.2-1.2.13.orig/docs/man3/SDL_Init.3
++++ libsdl1.2-1.2.13/docs/man3/SDL_Init.3
+@@ -38,4 +38,4 @@
+ .SH "SEE ALSO"
+ .PP
+ \fI\fBSDL_Quit\fP\fR, \fI\fBSDL_InitSubSystem\fP\fR
+-...\" created by instant / docbook-to-man, Tue 11 Sep 2001, 23:00
++.\" created by instant / docbook-to-man, Tue 11 Sep 2001, 23:00
+--- libsdl1.2-1.2.13.orig/docs/man3/SDL_UnlockAudio.3
++++ libsdl1.2-1.2.13/docs/man3/SDL_UnlockAudio.3
+@@ -12,4 +12,4 @@
+ .SH "SEE ALSO"
+ .PP
+ \fI\fBSDL_OpenAudio\fP\fR
+-...\" created by instant / docbook-to-man, Tue 11 Sep 2001, 22:58
++.\" created by instant / docbook-to-man, Tue 11 Sep 2001, 22:58
+--- libsdl1.2-1.2.13.orig/docs/man3/SDL_CondBroadcast.3
++++ libsdl1.2-1.2.13/docs/man3/SDL_CondBroadcast.3
+@@ -13,4 +13,4 @@
+ .SH "SEE ALSO"
+ .PP
+ \fI\fBSDL_CondSignal\fP\fR, \fI\fBSDL_CondWait\fP\fR 
+-...\" created by instant / docbook-to-man, Tue 11 Sep 2001, 23:00
++.\" created by instant / docbook-to-man, Tue 11 Sep 2001, 23:00
+--- libsdl1.2-1.2.13.orig/docs/man3/SDL_CondSignal.3
++++ libsdl1.2-1.2.13/docs/man3/SDL_CondSignal.3
+@@ -13,4 +13,4 @@
+ .SH "SEE ALSO"
+ .PP
+ \fI\fBSDL_CondWait\fP\fR, \fI\fBSDL_CondBroadcast\fP\fR
+-...\" created by instant / docbook-to-man, Tue 11 Sep 2001, 23:00
++.\" created by instant / docbook-to-man, Tue 11 Sep 2001, 23:00
+--- libsdl1.2-1.2.13.orig/docs/man3/SDL_GetThreadID.3
++++ libsdl1.2-1.2.13/docs/man3/SDL_GetThreadID.3
+@@ -13,4 +13,4 @@
+ .SH "SEE ALSO"
+ .PP
+ \fISDL_CreateThread\fR
+-...\" created by instant / docbook-to-man, Tue 11 Sep 2001, 23:00
++.\" created by instant / docbook-to-man, Tue 11 Sep 2001, 23:00
+--- libsdl1.2-1.2.13.orig/docs/man3/SDL_SetColors.3
++++ libsdl1.2-1.2.13/docs/man3/SDL_SetColors.3
+@@ -54,4 +54,4 @@
+ .SH "SEE ALSO"
+ .PP
+ \fI\fBSDL_Color\fR\fR \fI\fBSDL_Surface\fR\fR, \fI\fBSDL_SetPalette\fP\fR, \fI\fBSDL_SetVideoMode\fP\fR
+-...\" created by instant / docbook-to-man, Tue 11 Sep 2001, 23:01
++.\" created by instant / docbook-to-man, Tue 11 Sep 2001, 23:01
+--- libsdl1.2-1.2.13.orig/docs/man3/SDL_EnableKeyRepeat.3
++++ libsdl1.2-1.2.13/docs/man3/SDL_EnableKeyRepeat.3
+@@ -14,4 +14,4 @@
+ .SH "RETURN VALUE"
+ .PP
+ Returns \fB0\fR on success and \fB-1\fR on failure\&.
+-...\" created by instant / docbook-to-man, Tue 11 Sep 2001, 22:59
++.\" created by instant / docbook-to-man, Tue 11 Sep 2001, 22:59
+--- libsdl1.2-1.2.13.orig/docs/man3/SDL_RWFromFile.3
++++ libsdl1.2-1.2.13/docs/man3/SDL_RWFromFile.3
+@@ -15,4 +15,4 @@
+ .SH "SEE ALSO"
+ .PP
+ \fISDL_AnotherFunction\fR
+-...\" created by instant / docbook-to-man, Tue 11 Sep 2001, 23:00
++.\" created by instant / docbook-to-man, Tue 11 Sep 2001, 23:00
+--- libsdl1.2-1.2.13.orig/docs/man3/SDL_GetEventFilter.3
++++ libsdl1.2-1.2.13/docs/man3/SDL_GetEventFilter.3
+@@ -20,4 +20,4 @@
+ .SH "SEE ALSO"
+ .PP
+ \fI\fBSDL_Event\fR\fR, \fI\fBSDL_SetEventFilter\fP\fR
+-...\" created by instant / docbook-to-man, Tue 11 Sep 2001, 22:59
++.\" created by instant / docbook-to-man, Tue 11 Sep 2001, 22:59
+--- libsdl1.2-1.2.13.orig/docs/man3/SDL_Quit.3
++++ libsdl1.2-1.2.13/docs/man3/SDL_Quit.3
+@@ -26,4 +26,4 @@
+ .SH "SEE ALSO"
+ .PP
+ \fI\fBSDL_QuitSubsystem\fP\fR, \fI\fBSDL_Init\fP\fR
+-...\" created by instant / docbook-to-man, Tue 11 Sep 2001, 23:00
++.\" created by instant / docbook-to-man, Tue 11 Sep 2001, 23:00
+--- libsdl1.2-1.2.13.orig/docs/man3/SDL_FreeSurface.3
++++ libsdl1.2-1.2.13/docs/man3/SDL_FreeSurface.3
+@@ -12,4 +12,4 @@
+ .SH "SEE ALSO"
+ .PP
+ \fI\fBSDL_CreateRGBSurface\fP\fR \fI\fBSDL_CreateRGBSurfaceFrom\fP\fR
+-...\" created by instant / docbook-to-man, Tue 11 Sep 2001, 23:01
++.\" created by instant / docbook-to-man, Tue 11 Sep 2001, 23:01
+--- libsdl1.2-1.2.13.orig/docs/man3/SDL_CDPause.3
++++ libsdl1.2-1.2.13/docs/man3/SDL_CDPause.3
+@@ -15,4 +15,4 @@
+ .SH "SEE ALSO"
+ .PP
+ \fI\fBSDL_CDPlay\fP\fR, \fI\fBSDL_CDResume\fP\fR
+-...\" created by instant / docbook-to-man, Tue 11 Sep 2001, 22:58
++.\" created by instant / docbook-to-man, Tue 11 Sep 2001, 22:58
+--- libsdl1.2-1.2.13.orig/docs/man3/SDL_CondWait.3
++++ libsdl1.2-1.2.13/docs/man3/SDL_CondWait.3
+@@ -13,4 +13,4 @@
+ .SH "SEE ALSO"
+ .PP
+ \fI\fBSDL_CondWaitTimeout\fP\fR, \fI\fBSDL_CondSignal\fP\fR, \fI\fBSDL_mutexP\fP\fR
+-...\" created by instant / docbook-to-man, Tue 11 Sep 2001, 23:00
++.\" created by instant / docbook-to-man, Tue 11 Sep 2001, 23:00
+--- libsdl1.2-1.2.13.orig/docs/man3/SDL_PushEvent.3
++++ libsdl1.2-1.2.13/docs/man3/SDL_PushEvent.3
+@@ -24,4 +24,4 @@
+ .SH "SEE ALSO"
+ .PP
+ \fI\fBSDL_PollEvent\fP\fR, \fI\fBSDL_PeepEvents\fP\fR, \fI\fBSDL_Event\fR\fR
+-...\" created by instant / docbook-to-man, Tue 11 Sep 2001, 22:59
++.\" created by instant / docbook-to-man, Tue 11 Sep 2001, 22:59
+--- libsdl1.2-1.2.13.orig/docs/man3/SDL_WasInit.3
++++ libsdl1.2-1.2.13/docs/man3/SDL_WasInit.3
+@@ -60,4 +60,4 @@
+ .SH "SEE ALSO"
+ .PP
+ \fI\fBSDL_Init\fP\fR, \fI\fBSDL_Subsystem\fP\fR
+-...\" created by instant / docbook-to-man, Tue 11 Sep 2001, 23:00
++.\" created by instant / docbook-to-man, Tue 11 Sep 2001, 23:00
+--- libsdl1.2-1.2.13.orig/docs/man3/SDL_GetRGB.3
++++ libsdl1.2-1.2.13/docs/man3/SDL_GetRGB.3
+@@ -14,4 +14,4 @@
+ .SH "SEE ALSO"
+ .PP
+ \fI\fBSDL_GetRGBA\fP\fR, \fI\fBSDL_MapRGB\fP\fR, \fI\fBSDL_MapRGBA\fP\fR, \fI\fBSDL_PixelFormat\fR\fR
+-...\" created by instant / docbook-to-man, Tue 11 Sep 2001, 23:01
++.\" created by instant / docbook-to-man, Tue 11 Sep 2001, 23:01
+--- libsdl1.2-1.2.13.orig/docs/man3/SDL_JoystickEventState.3
++++ libsdl1.2-1.2.13/docs/man3/SDL_JoystickEventState.3
+@@ -21,4 +21,4 @@
+ .SH "SEE ALSO"
+ .PP
+ \fISDL Joystick Functions\fR, \fI\fBSDL_JoystickUpdate\fP\fR, \fI\fBSDL_JoyAxisEvent\fR\fR, \fI\fBSDL_JoyBallEvent\fR\fR, \fI\fBSDL_JoyButtonEvent\fR\fR, \fI\fBSDL_JoyHatEvent\fR\fR
+-...\" created by instant / docbook-to-man, Tue 11 Sep 2001, 22:59
++.\" created by instant / docbook-to-man, Tue 11 Sep 2001, 22:59
+--- libsdl1.2-1.2.13.orig/docs/man3/SDL_WM_SetCaption.3
++++ libsdl1.2-1.2.13/docs/man3/SDL_WM_SetCaption.3
+@@ -12,4 +12,4 @@
+ .SH "SEE ALSO"
+ .PP
+ \fI\fBSDL_WM_GetCaption\fP\fR, \fI\fBSDL_WM_SetIcon\fP\fR
+-...\" created by instant / docbook-to-man, Tue 11 Sep 2001, 23:02
++.\" created by instant / docbook-to-man, Tue 11 Sep 2001, 23:02
+--- libsdl1.2-1.2.13.orig/docs/man3/SDL_Surface.3
++++ libsdl1.2-1.2.13/docs/man3/SDL_Surface.3
+@@ -93,4 +93,4 @@
+ .SH "SEE ALSO"
+ .PP
+ \fI\fBSDL_PixelFormat\fR\fR
+-...\" created by instant / docbook-to-man, Tue 11 Sep 2001, 23:01
++.\" created by instant / docbook-to-man, Tue 11 Sep 2001, 23:01
+--- libsdl1.2-1.2.13.orig/docs/man3/SDL_ActiveEvent.3
++++ libsdl1.2-1.2.13/docs/man3/SDL_ActiveEvent.3
+@@ -35,4 +35,4 @@
+ .SH "SEE ALSO"
+ .PP
+ \fI\fBSDL_Event\fR\fR, \fI\fBSDL_GetAppState\fP\fR
+-...\" created by instant / docbook-to-man, Tue 11 Sep 2001, 22:59
++.\" created by instant / docbook-to-man, Tue 11 Sep 2001, 22:59
+--- libsdl1.2-1.2.13.orig/docs/man3/SDL_GetError.3
++++ libsdl1.2-1.2.13/docs/man3/SDL_GetError.3
+@@ -12,4 +12,4 @@
+ .SH "RETURN VALUE"
+ .PP
+ \fBSDL_GetError\fP returns a string containing the last error\&.
+-...\" created by instant / docbook-to-man, Tue 11 Sep 2001, 23:00
++.\" created by instant / docbook-to-man, Tue 11 Sep 2001, 23:00
+--- libsdl1.2-1.2.13.orig/docs/man3/SDL_MapRGB.3
++++ libsdl1.2-1.2.13/docs/man3/SDL_MapRGB.3
+@@ -19,4 +19,4 @@
+ .SH "SEE ALSO"
+ .PP
+ \fI\fBSDL_GetRGB\fP\fR, \fI\fBSDL_GetRGBA\fP\fR, \fI\fBSDL_MapRGBA\fP\fR, \fI\fBSDL_PixelFormat\fR\fR
+-...\" created by instant / docbook-to-man, Tue 11 Sep 2001, 23:01
++.\" created by instant / docbook-to-man, Tue 11 Sep 2001, 23:01
+--- libsdl1.2-1.2.13.orig/docs/man3/SDL_WaitThread.3
++++ libsdl1.2-1.2.13/docs/man3/SDL_WaitThread.3
+@@ -16,4 +16,4 @@
+ .SH "SEE ALSO"
+ .PP
+ \fI\fBSDL_CreateThread\fP\fR
+-...\" created by instant / docbook-to-man, Tue 11 Sep 2001, 23:01
++.\" created by instant / docbook-to-man, Tue 11 Sep 2001, 23:01
+--- libsdl1.2-1.2.13.orig/docs/man3/SDL_Rect.3
++++ libsdl1.2-1.2.13/docs/man3/SDL_Rect.3
+@@ -23,4 +23,4 @@
+ .SH "SEE ALSO"
+ .PP
+ \fI\fBSDL_BlitSurface\fP\fR, \fI\fBSDL_UpdateRect\fP\fR
+-...\" created by instant / docbook-to-man, Tue 11 Sep 2001, 23:01
++.\" created by instant / docbook-to-man, Tue 11 Sep 2001, 23:01
+--- libsdl1.2-1.2.13.orig/docs/man3/SDL_JoystickNumBalls.3
++++ libsdl1.2-1.2.13/docs/man3/SDL_JoystickNumBalls.3
+@@ -15,4 +15,4 @@
+ .SH "SEE ALSO"
+ .PP
+ \fI\fBSDL_JoystickGetBall\fP\fR, \fI\fBSDL_JoystickOpen\fP\fR
+-...\" created by instant / docbook-to-man, Tue 11 Sep 2001, 23:00
++.\" created by instant / docbook-to-man, Tue 11 Sep 2001, 23:00
+--- libsdl1.2-1.2.13.orig/docs/man3/SDL_WM_GetCaption.3
++++ libsdl1.2-1.2.13/docs/man3/SDL_WM_GetCaption.3
+@@ -12,4 +12,4 @@
+ .SH "SEE ALSO"
+ .PP
+ \fI\fBSDL_WM_SetCaption\fP\fR, \fI\fBSDL_WM_SetIcon\fP\fR
+-...\" created by instant / docbook-to-man, Tue 11 Sep 2001, 23:01
++.\" created by instant / docbook-to-man, Tue 11 Sep 2001, 23:01
+--- libsdl1.2-1.2.13.orig/docs/man3/SDL_MixAudio.3
++++ libsdl1.2-1.2.13/docs/man3/SDL_MixAudio.3
+@@ -18,4 +18,4 @@
+ .SH "SEE ALSO"
+ .PP
+ \fI\fBSDL_OpenAudio\fP\fR
+-...\" created by instant / docbook-to-man, Tue 11 Sep 2001, 22:58
++.\" created by instant / docbook-to-man, Tue 11 Sep 2001, 22:58
+--- libsdl1.2-1.2.13.orig/docs/man3/SDL_JoystickName.3
++++ libsdl1.2-1.2.13/docs/man3/SDL_JoystickName.3
+@@ -29,4 +29,4 @@
+ .SH "SEE ALSO"
+ .PP
+ \fI\fBSDL_JoystickOpen\fP\fR
+-...\" created by instant / docbook-to-man, Tue 11 Sep 2001, 23:00
++.\" created by instant / docbook-to-man, Tue 11 Sep 2001, 23:00
+--- libsdl1.2-1.2.13.orig/docs/man3/SDL_CreateSemaphore.3
++++ libsdl1.2-1.2.13/docs/man3/SDL_CreateSemaphore.3
+@@ -29,4 +29,4 @@
+ .SH "SEE ALSO"
+ .PP
+ \fI\fBSDL_DestroySemaphore\fP\fR, \fI\fBSDL_SemWait\fP\fR, \fI\fBSDL_SemTryWait\fP\fR, \fI\fBSDL_SemWaitTimeout\fP\fR, \fI\fBSDL_SemPost\fP\fR, \fI\fBSDL_SemValue\fP\fR
+-...\" created by instant / docbook-to-man, Tue 11 Sep 2001, 23:00
++.\" created by instant / docbook-to-man, Tue 11 Sep 2001, 23:00
+--- libsdl1.2-1.2.13.orig/docs/man3/SDL_JoyHatEvent.3
++++ libsdl1.2-1.2.13/docs/man3/SDL_JoyHatEvent.3
+@@ -53,4 +53,4 @@
+ .SH "SEE ALSO"
+ .PP
+ \fI\fBSDL_Event\fR\fR, \fIJoystick Functions\fR, \fI\fBSDL_JoystickEventState\fP\fR, \fI\fBSDL_JoystickGetHat\fP\fR
+-...\" created by instant / docbook-to-man, Tue 11 Sep 2001, 22:59
++.\" created by instant / docbook-to-man, Tue 11 Sep 2001, 22:59
+--- libsdl1.2-1.2.13.orig/docs/man3/SDL_CDStatus.3
++++ libsdl1.2-1.2.13/docs/man3/SDL_CDStatus.3
+@@ -56,4 +56,4 @@
+ .SH "SEE ALSO"
+ .PP
+ \fI\fBSDL_CD\fP\fR
+-...\" created by instant / docbook-to-man, Tue 11 Sep 2001, 22:58
++.\" created by instant / docbook-to-man, Tue 11 Sep 2001, 22:58
+--- libsdl1.2-1.2.13.orig/docs/man3/SDL_GetMouseState.3
++++ libsdl1.2-1.2.13/docs/man3/SDL_GetMouseState.3
+@@ -21,4 +21,4 @@
+ .SH "SEE ALSO"
+ .PP
+ \fI\fBSDL_GetRelativeMouseState\fP\fR, \fI\fBSDL_PumpEvents\fP\fR
+-...\" created by instant / docbook-to-man, Tue 11 Sep 2001, 22:59
++.\" created by instant / docbook-to-man, Tue 11 Sep 2001, 22:59
+--- libsdl1.2-1.2.13.orig/docs/man3/SDL_SaveBMP.3
++++ libsdl1.2-1.2.13/docs/man3/SDL_SaveBMP.3
+@@ -15,4 +15,4 @@
+ .SH "SEE ALSO"
+ .PP
+ \fI\fBSDL_LoadBMP\fP\fR
+-...\" created by instant / docbook-to-man, Tue 11 Sep 2001, 23:01
++.\" created by instant / docbook-to-man, Tue 11 Sep 2001, 23:01
+--- libsdl1.2-1.2.13.orig/docs/man3/SDL_CDPlayTracks.3
++++ libsdl1.2-1.2.13/docs/man3/SDL_CDPlayTracks.3
+@@ -44,4 +44,4 @@
+ .SH "SEE ALSO"
+ .PP
+ \fI\fBSDL_CDPlay\fP\fR, \fI\fBSDL_CDStatus\fP\fR, \fI\fBSDL_CD\fP\fR
+-...\" created by instant / docbook-to-man, Tue 11 Sep 2001, 22:58
++.\" created by instant / docbook-to-man, Tue 11 Sep 2001, 22:58
+--- libsdl1.2-1.2.13.orig/docs/man3/SDL_CreateMutex.3
++++ libsdl1.2-1.2.13/docs/man3/SDL_CreateMutex.3
+@@ -40,4 +40,4 @@
+ .SH "SEE ALSO"
+ .PP
+ \fI\fBSDL_mutexP\fP\fR, \fI\fBSDL_mutexV\fP\fR, \fI\fBSDL_DestroyMutex\fP\fR
+-...\" created by instant / docbook-to-man, Tue 11 Sep 2001, 23:00
++.\" created by instant / docbook-to-man, Tue 11 Sep 2001, 23:00
+--- libsdl1.2-1.2.13.orig/docs/man3/SDL_ThreadID.3
++++ libsdl1.2-1.2.13/docs/man3/SDL_ThreadID.3
+@@ -10,4 +10,4 @@
+ .SH "DESCRIPTION"
+ .PP
+ Get the 32-bit thread identifier for the current thread\&.
+-...\" created by instant / docbook-to-man, Tue 11 Sep 2001, 23:00
++.\" created by instant / docbook-to-man, Tue 11 Sep 2001, 23:00
+--- libsdl1.2-1.2.13.orig/docs/man3/SDL_WM_IconifyWindow.3
++++ libsdl1.2-1.2.13/docs/man3/SDL_WM_IconifyWindow.3
+@@ -12,4 +12,4 @@
+ .SH "RETURN VALUE"
+ .PP
+ Returns non-zero on success or \fB0\fR if iconification is not support or was refused by the window manager\&.
+-...\" created by instant / docbook-to-man, Tue 11 Sep 2001, 23:02
++.\" created by instant / docbook-to-man, Tue 11 Sep 2001, 23:02
+--- libsdl1.2-1.2.13.orig/docs/man3/SDL_GetGamma.3
++++ libsdl1.2-1.2.13/docs/man3/SDL_GetGamma.3
+@@ -18,4 +18,4 @@
+ .SH "SEE ALSO"
+ .PP
+ \fI\fBSDL_SetGamma\fP\fR, \fI\fBSDL_SetVideoMode\fP\fR
+-...\" created by instant / docbook-to-man, Tue 11 Sep 2001, 23:01
++.\" created by instant / docbook-to-man, Tue 11 Sep 2001, 23:01
+--- libsdl1.2-1.2.13.orig/docs/man3/SDL_GL_GetAttribute.3
++++ libsdl1.2-1.2.13/docs/man3/SDL_GL_GetAttribute.3
+@@ -15,4 +15,4 @@
+ .SH "SEE ALSO"
+ .PP
+ \fI\fBSDL_GL_SetAttribute\fP\fR, \fIGL Attributes\fR
+-...\" created by instant / docbook-to-man, Tue 11 Sep 2001, 23:01
++.\" created by instant / docbook-to-man, Tue 11 Sep 2001, 23:01
+--- libsdl1.2-1.2.13.orig/docs/man3/SDL_Overlay.3
++++ libsdl1.2-1.2.13/docs/man3/SDL_Overlay.3
+@@ -49,4 +49,4 @@
+ .SH "SEE ALSO"
+ .PP
+ \fI\fBSDL_CreateYUVOverlay\fP\fR, \fI\fBSDL_LockYUVOverlay\fP\fR, \fI\fBSDL_UnlockYUVOverlay\fP\fR, \fI\fBSDL_FreeYUVOverlay\fP\fR
+-...\" created by instant / docbook-to-man, Tue 11 Sep 2001, 23:01
++.\" created by instant / docbook-to-man, Tue 11 Sep 2001, 23:01
+--- libsdl1.2-1.2.13.orig/docs/man3/SDL_Flip.3
++++ libsdl1.2-1.2.13/docs/man3/SDL_Flip.3
+@@ -17,4 +17,4 @@
+ .SH "SEE ALSO"
+ .PP
+ \fI\fBSDL_SetVideoMode\fP\fR, \fI\fBSDL_UpdateRect\fP\fR, \fI\fBSDL_Surface\fR\fR
+-...\" created by instant / docbook-to-man, Tue 11 Sep 2001, 23:01
++.\" created by instant / docbook-to-man, Tue 11 Sep 2001, 23:01
+--- libsdl1.2-1.2.13.orig/docs/man3/SDL_DisplayFormat.3
++++ libsdl1.2-1.2.13/docs/man3/SDL_DisplayFormat.3
+@@ -19,4 +19,4 @@
+ .SH "SEE ALSO"
+ .PP
+ \fI\fBSDL_ConvertSurface\fP\fR, \fI\fBSDL_DisplayFormatAlpha\fP\fR \fI\fBSDL_SetAlpha\fP\fR, \fI\fBSDL_SetColorKey\fP\fR, \fI\fBSDL_Surface\fR\fR
+-...\" created by instant / docbook-to-man, Tue 11 Sep 2001, 23:01
++.\" created by instant / docbook-to-man, Tue 11 Sep 2001, 23:01
+--- libsdl1.2-1.2.13.orig/docs/man3/SDL_PumpEvents.3
++++ libsdl1.2-1.2.13/docs/man3/SDL_PumpEvents.3
+@@ -20,4 +20,4 @@
+ .SH "SEE ALSO"
+ .PP
+ \fI\fBSDL_PollEvent\fP\fR
+-...\" created by instant / docbook-to-man, Tue 11 Sep 2001, 22:59
++.\" created by instant / docbook-to-man, Tue 11 Sep 2001, 22:59
+--- libsdl1.2-1.2.13.orig/docs/man3/SDL_ConvertAudio.3
++++ libsdl1.2-1.2.13/docs/man3/SDL_ConvertAudio.3
+@@ -92,4 +92,4 @@
+ .SH "SEE ALSO"
+ .PP
+ \fI\fBSDL_BuildAudioCVT\fP\fR, \fI\fBSDL_AudioCVT\fP\fR
+-...\" created by instant / docbook-to-man, Tue 11 Sep 2001, 22:58
++.\" created by instant / docbook-to-man, Tue 11 Sep 2001, 22:58
+--- libsdl1.2-1.2.13.orig/docs/man3/SDL_MouseButtonEvent.3
++++ libsdl1.2-1.2.13/docs/man3/SDL_MouseButtonEvent.3
+@@ -33,4 +33,4 @@
+ .SH "SEE ALSO"
+ .PP
+ \fI\fBSDL_Event\fR\fR, \fI\fBSDL_MouseMotionEvent\fR\fR
+-...\" created by instant / docbook-to-man, Tue 11 Sep 2001, 22:59
++.\" created by instant / docbook-to-man, Tue 11 Sep 2001, 22:59
+--- libsdl1.2-1.2.13.orig/docs/man3/SDL_JoystickClose.3
++++ libsdl1.2-1.2.13/docs/man3/SDL_JoystickClose.3
+@@ -12,4 +12,4 @@
+ .SH "SEE ALSO"
+ .PP
+ \fI\fBSDL_JoystickOpen\fP\fR, \fI\fBSDL_JoystickOpened\fP\fR
+-...\" created by instant / docbook-to-man, Tue 11 Sep 2001, 23:00
++.\" created by instant / docbook-to-man, Tue 11 Sep 2001, 23:00
+--- libsdl1.2-1.2.13.orig/docs/man3/SDL_QuitEvent.3
++++ libsdl1.2-1.2.13/docs/man3/SDL_QuitEvent.3
+@@ -27,4 +27,4 @@
+ .SH "SEE ALSO"
+ .PP
+ \fI\fBSDL_Event\fR\fR, \fI\fBSDL_SetEventFilter\fP\fR
+-...\" created by instant / docbook-to-man, Tue 11 Sep 2001, 22:59
++.\" created by instant / docbook-to-man, Tue 11 Sep 2001, 22:59
+--- libsdl1.2-1.2.13.orig/docs/man3/SDL_MouseMotionEvent.3
++++ libsdl1.2-1.2.13/docs/man3/SDL_MouseMotionEvent.3
+@@ -35,4 +35,4 @@
+ .SH "SEE ALSO"
+ .PP
+ \fI\fBSDL_Event\fR\fR, \fI\fBSDL_MouseButtonEvent\fR\fR
+-...\" created by instant / docbook-to-man, Tue 11 Sep 2001, 22:59
++.\" created by instant / docbook-to-man, Tue 11 Sep 2001, 22:59
+--- libsdl1.2-1.2.13.orig/docs/man3/SDL_GetVideoInfo.3
++++ libsdl1.2-1.2.13/docs/man3/SDL_GetVideoInfo.3
+@@ -12,4 +12,4 @@
+ .SH "SEE ALSO"
+ .PP
+ \fI\fBSDL_SetVideoMode\fP\fR, \fI\fBSDL_VideoInfo\fR\fR
+-...\" created by instant / docbook-to-man, Tue 11 Sep 2001, 23:01
++.\" created by instant / docbook-to-man, Tue 11 Sep 2001, 23:01
+--- libsdl1.2-1.2.13.orig/docs/man3/SDL_WaitEvent.3
++++ libsdl1.2-1.2.13/docs/man3/SDL_WaitEvent.3
+@@ -14,4 +14,4 @@
+ .SH "SEE ALSO"
+ .PP
+ \fI\fBSDL_Event\fR\fR, \fI\fBSDL_PollEvent\fP\fR
+-...\" created by instant / docbook-to-man, Tue 11 Sep 2001, 23:00
++.\" created by instant / docbook-to-man, Tue 11 Sep 2001, 23:00
+--- libsdl1.2-1.2.13.orig/docs/man3/SDL_DestroyCond.3
++++ libsdl1.2-1.2.13/docs/man3/SDL_DestroyCond.3
+@@ -13,4 +13,4 @@
+ .SH "SEE ALSO"
+ .PP
+ \fI\fBSDL_CreateCond\fP\fR
+-...\" created by instant / docbook-to-man, Tue 11 Sep 2001, 23:00
++.\" created by instant / docbook-to-man, Tue 11 Sep 2001, 23:00
+--- libsdl1.2-1.2.13.orig/docs/man3/SDL_JoystickGetAxis.3
++++ libsdl1.2-1.2.13/docs/man3/SDL_JoystickGetAxis.3
+@@ -29,4 +29,4 @@
+ .SH "SEE ALSO"
+ .PP
+ \fI\fBSDL_JoystickNumAxes\fP\fR
+-...\" created by instant / docbook-to-man, Tue 11 Sep 2001, 23:00
++.\" created by instant / docbook-to-man, Tue 11 Sep 2001, 23:00
+--- libsdl1.2-1.2.13.orig/docs/man3/SDL_ExposeEvent.3
++++ libsdl1.2-1.2.13/docs/man3/SDL_ExposeEvent.3
+@@ -21,4 +21,4 @@
+ .SH "SEE ALSO"
+ .PP
+ \fI\fBSDL_Event\fR\fR, \fI\fBSDL_SetEventFilter\fP\fR
+-...\" created by instant / docbook-to-man, Tue 11 Sep 2001, 23:00
++.\" created by instant / docbook-to-man, Tue 11 Sep 2001, 23:00
+--- libsdl1.2-1.2.13.orig/docs/man3/SDL_BlitSurface.3
++++ libsdl1.2-1.2.13/docs/man3/SDL_BlitSurface.3
+@@ -57,4 +57,4 @@
+ .SH "SEE ALSO"
+ .PP
+ \fI\fBSDL_LockSurface\fP\fR, \fI\fBSDL_FillRect\fP\fR, \fI\fBSDL_Surface\fR\fR, \fI\fBSDL_Rect\fR\fR
+-...\" created by instant / docbook-to-man, Tue 11 Sep 2001, 23:01
++.\" created by instant / docbook-to-man, Tue 11 Sep 2001, 23:01
+--- libsdl1.2-1.2.13.orig/docs/man3/SDL_GL_LoadLibrary.3
++++ libsdl1.2-1.2.13/docs/man3/SDL_GL_LoadLibrary.3
+@@ -12,4 +12,4 @@
+ .SH "SEE ALSO"
+ .PP
+ \fI\fBSDL_GL_GetProcAddress\fP\fR
+-...\" created by instant / docbook-to-man, Tue 11 Sep 2001, 23:01
++.\" created by instant / docbook-to-man, Tue 11 Sep 2001, 23:01
+--- libsdl1.2-1.2.13.orig/docs/man3/SDL_EventState.3
++++ libsdl1.2-1.2.13/docs/man3/SDL_EventState.3
+@@ -20,4 +20,4 @@
+ .SH "SEE ALSO"
+ .PP
+ \fI\fBSDL_Event\fR\fR
+-...\" created by instant / docbook-to-man, Tue 11 Sep 2001, 22:59
++.\" created by instant / docbook-to-man, Tue 11 Sep 2001, 22:59
+--- libsdl1.2-1.2.13.orig/docs/man3/SDL_CreateCursor.3
++++ libsdl1.2-1.2.13/docs/man3/SDL_CreateCursor.3
+@@ -117,4 +117,4 @@
+ .SH "SEE ALSO"
+ .PP
+ \fI\fBSDL_FreeCursor\fP\fR, \fI\fBSDL_SetCursor\fP\fR, \fI\fBSDL_ShowCursor\fP\fR
+-...\" created by instant / docbook-to-man, Tue 11 Sep 2001, 23:01
++.\" created by instant / docbook-to-man, Tue 11 Sep 2001, 23:01
+--- libsdl1.2-1.2.13.orig/docs/man3/SDL_DisplayFormatAlpha.3
++++ libsdl1.2-1.2.13/docs/man3/SDL_DisplayFormatAlpha.3
+@@ -19,4 +19,4 @@
+ .SH "SEE ALSO"
+ .PP
+ \fISDL_ConvertSurface\fR, \fISDL_SetAlpha\fR, \fISDL_SetColorKey\fR, \fISDL_DisplayFormat\fR, \fISDL_Surface\fR
+-...\" created by instant / docbook-to-man, Tue 11 Sep 2001, 23:01
++.\" created by instant / docbook-to-man, Tue 11 Sep 2001, 23:01
+--- libsdl1.2-1.2.13.orig/docs/man3/SDL_JoystickNumAxes.3
++++ libsdl1.2-1.2.13/docs/man3/SDL_JoystickNumAxes.3
+@@ -15,4 +15,4 @@
+ .SH "SEE ALSO"
+ .PP
+ \fI\fBSDL_JoystickGetAxis\fP\fR, \fI\fBSDL_JoystickOpen\fP\fR
+-...\" created by instant / docbook-to-man, Tue 11 Sep 2001, 23:00
++.\" created by instant / docbook-to-man, Tue 11 Sep 2001, 23:00
+--- libsdl1.2-1.2.13.orig/docs/man3/SDL_PauseAudio.3
++++ libsdl1.2-1.2.13/docs/man3/SDL_PauseAudio.3
+@@ -12,4 +12,4 @@
+ .SH "SEE ALSO"
+ .PP
+ \fI\fBSDL_GetAudioStatus\fP\fR, \fI\fBSDL_OpenAudio\fP\fR
+-...\" created by instant / docbook-to-man, Tue 11 Sep 2001, 22:58
++.\" created by instant / docbook-to-man, Tue 11 Sep 2001, 22:58
+--- libsdl1.2-1.2.13.orig/docs/man3/SDL_GL_SwapBuffers.3
++++ libsdl1.2-1.2.13/docs/man3/SDL_GL_SwapBuffers.3
+@@ -12,4 +12,4 @@
+ .SH "SEE ALSO"
+ .PP
+ \fI\fBSDL_SetVideoMode\fP\fR, \fI\fBSDL_GL_SetAttribute\fP\fR
+-...\" created by instant / docbook-to-man, Tue 11 Sep 2001, 23:01
++.\" created by instant / docbook-to-man, Tue 11 Sep 2001, 23:01
+--- libsdl1.2-1.2.13.orig/docs/man3/SDL_SetTimer.3
++++ libsdl1.2-1.2.13/docs/man3/SDL_SetTimer.3
+@@ -36,4 +36,4 @@
+ .SH "SEE ALSO"
+ .PP
+ \fI\fBSDL_AddTimer\fP\fR
+-...\" created by instant / docbook-to-man, Tue 11 Sep 2001, 23:01
++.\" created by instant / docbook-to-man, Tue 11 Sep 2001, 23:01
+--- libsdl1.2-1.2.13.orig/docs/man3/SDL_PeepEvents.3
++++ libsdl1.2-1.2.13/docs/man3/SDL_PeepEvents.3
+@@ -23,4 +23,4 @@
+ .SH "SEE ALSO"
+ .PP
+ \fI\fBSDL_Event\fR\fR, \fI\fBSDL_PollEvent\fP\fR, \fI\fBSDL_PushEvent\fP\fR
+-...\" created by instant / docbook-to-man, Tue 11 Sep 2001, 22:59
++.\" created by instant / docbook-to-man, Tue 11 Sep 2001, 22:59
+--- libsdl1.2-1.2.13.orig/docs/man3/SDL_SemTryWait.3
++++ libsdl1.2-1.2.13/docs/man3/SDL_SemTryWait.3
+@@ -38,4 +38,4 @@
+ .SH "SEE ALSO"
+ .PP
+ \fI\fBSDL_CreateSemaphore\fP\fR, \fI\fBSDL_DestroySemaphore\fP\fR, \fI\fBSDL_SemWait\fP\fR, \fI\fBSDL_SemWaitTimeout\fP\fR, \fI\fBSDL_SemPost\fP\fR, \fI\fBSDL_SemValue\fP\fR
+-...\" created by instant / docbook-to-man, Tue 11 Sep 2001, 23:00
++.\" created by instant / docbook-to-man, Tue 11 Sep 2001, 23:00
+--- libsdl1.2-1.2.13.orig/docs/man3/SDL_GetModState.3
++++ libsdl1.2-1.2.13/docs/man3/SDL_GetModState.3
+@@ -51,4 +51,4 @@
+ .SH "SEE ALSO"
+ .PP
+ \fI\fBSDL_GetKeyState\fP\fR
+-...\" created by instant / docbook-to-man, Tue 11 Sep 2001, 22:59
++.\" created by instant / docbook-to-man, Tue 11 Sep 2001, 22:59
+--- libsdl1.2-1.2.13.orig/docs/man3/SDL_EnableUNICODE.3
++++ libsdl1.2-1.2.13/docs/man3/SDL_EnableUNICODE.3
+@@ -21,4 +21,4 @@
+ .SH "SEE ALSO"
+ .PP
+ \fI\fBSDL_keysym\fR\fR
+-...\" created by instant / docbook-to-man, Tue 11 Sep 2001, 22:59
++.\" created by instant / docbook-to-man, Tue 11 Sep 2001, 22:59
+--- libsdl1.2-1.2.13.orig/docs/man3/SDL_CreateRGBSurfaceFrom.3
++++ libsdl1.2-1.2.13/docs/man3/SDL_CreateRGBSurfaceFrom.3
+@@ -19,4 +19,4 @@
+ .SH "SEE ALSO"
+ .PP
+ \fI\fBSDL_CreateRGBSurface\fP\fR, \fI\fBSDL_FreeSurface\fP\fR
+-...\" created by instant / docbook-to-man, Tue 11 Sep 2001, 23:01
++.\" created by instant / docbook-to-man, Tue 11 Sep 2001, 23:01
+--- libsdl1.2-1.2.13.orig/docs/man3/SDL_JoystickGetHat.3
++++ libsdl1.2-1.2.13/docs/man3/SDL_JoystickGetHat.3
+@@ -33,4 +33,4 @@
+ .SH "SEE ALSO"
+ .PP
+ \fI\fBSDL_JoystickNumHats\fP\fR
+-...\" created by instant / docbook-to-man, Tue 11 Sep 2001, 23:00
++.\" created by instant / docbook-to-man, Tue 11 Sep 2001, 23:00
+--- libsdl1.2-1.2.13.orig/docs/man3/SDL_GetGammaRamp.3
++++ libsdl1.2-1.2.13/docs/man3/SDL_GetGammaRamp.3
+@@ -17,4 +17,4 @@
+ .SH "SEE ALSO"
+ .PP
+ \fISDL_SetGamma\fR \fISDL_SetGammaRamp\fR
+-...\" created by instant / docbook-to-man, Tue 11 Sep 2001, 23:01
++.\" created by instant / docbook-to-man, Tue 11 Sep 2001, 23:01
+--- libsdl1.2-1.2.13.orig/docs/man3/SDL_SemValue.3
++++ libsdl1.2-1.2.13/docs/man3/SDL_SemValue.3
+@@ -23,4 +23,4 @@
+ .SH "SEE ALSO"
+ .PP
+ \fI\fBSDL_CreateSemaphore\fP\fR, \fI\fBSDL_DestroySemaphore\fP\fR, \fI\fBSDL_SemWait\fP\fR, \fI\fBSDL_SemTryWait\fP\fR, \fI\fBSDL_SemWaitTimeout\fP\fR, \fI\fBSDL_SemPost\fP\fR
+-...\" created by instant / docbook-to-man, Tue 11 Sep 2001, 23:00
++.\" created by instant / docbook-to-man, Tue 11 Sep 2001, 23:00
+--- libsdl1.2-1.2.13.orig/docs/man3/SDL_CDOpen.3
++++ libsdl1.2-1.2.13/docs/man3/SDL_CDOpen.3
+@@ -55,4 +55,4 @@
+ .SH "SEE ALSO"
+ .PP
+ \fI\fBSDL_CD\fR\fR, \fI\fBSDL_CDtrack\fR\fR, \fI\fBSDL_CDClose\fP\fR
+-...\" created by instant / docbook-to-man, Tue 11 Sep 2001, 22:58
++.\" created by instant / docbook-to-man, Tue 11 Sep 2001, 22:58
+--- libsdl1.2-1.2.13.orig/docs/man3/SDL_CreateCond.3
++++ libsdl1.2-1.2.13/docs/man3/SDL_CreateCond.3
+@@ -28,4 +28,4 @@
+ .SH "SEE ALSO"
+ .PP
+ \fI\fBSDL_DestroyCond\fP\fR, \fI\fBSDL_CondWait\fP\fR, \fI\fBSDL_CondSignal\fP\fR
+-...\" created by instant / docbook-to-man, Tue 11 Sep 2001, 23:00
++.\" created by instant / docbook-to-man, Tue 11 Sep 2001, 23:00
+--- libsdl1.2-1.2.13.orig/docs/man3/SDL_CDNumDrives.3
++++ libsdl1.2-1.2.13/docs/man3/SDL_CDNumDrives.3
+@@ -12,4 +12,4 @@
+ .SH "SEE ALSO"
+ .PP
+ \fI\fBSDL_CDOpen\fP\fR
+-...\" created by instant / docbook-to-man, Tue 11 Sep 2001, 22:58
++.\" created by instant / docbook-to-man, Tue 11 Sep 2001, 22:58
+--- libsdl1.2-1.2.13.orig/docs/man3/SDL_SetGamma.3
++++ libsdl1.2-1.2.13/docs/man3/SDL_SetGamma.3
+@@ -19,4 +19,4 @@
+ .SH "SEE ALSO"
+ .PP
+ \fISDL_GetGammaRamp\fR \fISDL_SetGammaRamp\fR
+-...\" created by instant / docbook-to-man, Tue 11 Sep 2001, 23:01
++.\" created by instant / docbook-to-man, Tue 11 Sep 2001, 23:01
+--- libsdl1.2-1.2.13.orig/docs/man3/SDL_GetAudioStatus.3
++++ libsdl1.2-1.2.13/docs/man3/SDL_GetAudioStatus.3
+@@ -21,4 +21,4 @@
+ .SH "SEE ALSO"
+ .PP
+ \fI\fBSDL_PauseAudio\fP\fR
+-...\" created by instant / docbook-to-man, Tue 11 Sep 2001, 22:58
++.\" created by instant / docbook-to-man, Tue 11 Sep 2001, 22:58
+--- libsdl1.2-1.2.13.orig/docs/man3/SDL_JoyButtonEvent.3
++++ libsdl1.2-1.2.13/docs/man3/SDL_JoyButtonEvent.3
+@@ -33,4 +33,4 @@
+ .SH "SEE ALSO"
+ .PP
+ \fI\fBSDL_Event\fR\fR, \fIJoystick Functions\fR, \fI\fBSDL_JoystickEventState\fP\fR, \fI\fBSDL_JoystickGetButton\fP\fR
+-...\" created by instant / docbook-to-man, Tue 11 Sep 2001, 22:59
++.\" created by instant / docbook-to-man, Tue 11 Sep 2001, 22:59
+--- libsdl1.2-1.2.13.orig/docs/man3/SDL_CD.3
++++ libsdl1.2-1.2.13/docs/man3/SDL_CD.3
+@@ -54,4 +54,4 @@
+ .SH "SEE ALSO"
+ .PP
+ \fI\fBSDL_CDOpen\fP\fR, \fI\fBSDL_CDtrack\fR\fR
+-...\" created by instant / docbook-to-man, Tue 11 Sep 2001, 22:58
++.\" created by instant / docbook-to-man, Tue 11 Sep 2001, 22:58
+--- libsdl1.2-1.2.13.orig/docs/man3/SDL_SetPalette.3
++++ libsdl1.2-1.2.13/docs/man3/SDL_SetPalette.3
+@@ -56,4 +56,4 @@
+ .SH "SEE ALSO"
+ .PP
+ \fISDL_SetColors\fR, \fISDL_SetVideoMode\fR, \fISDL_Surface\fR, \fISDL_Color\fR
+-...\" created by instant / docbook-to-man, Tue 11 Sep 2001, 23:01
++.\" created by instant / docbook-to-man, Tue 11 Sep 2001, 23:01
+--- libsdl1.2-1.2.13.orig/docs/man3/SDL_GetTicks.3
++++ libsdl1.2-1.2.13/docs/man3/SDL_GetTicks.3
+@@ -12,4 +12,4 @@
+ .SH "SEE ALSO"
+ .PP
+ \fI\fBSDL_Delay\fP\fR
+-...\" created by instant / docbook-to-man, Tue 11 Sep 2001, 23:01
++.\" created by instant / docbook-to-man, Tue 11 Sep 2001, 23:01
+--- libsdl1.2-1.2.13.orig/docs/man3/SDL_GetKeyState.3
++++ libsdl1.2-1.2.13/docs/man3/SDL_GetKeyState.3
+@@ -27,4 +27,4 @@
+ .SH "SEE ALSO"
+ .PP
+ \fI\fBSDL Key Symbols\fP\fR, \fI\fBSDL_PumpEvents\fP\fR
+-...\" created by instant / docbook-to-man, Tue 11 Sep 2001, 22:59
++.\" created by instant / docbook-to-man, Tue 11 Sep 2001, 22:59
+--- libsdl1.2-1.2.13.orig/docs/man3/SDL_keysym.3
++++ libsdl1.2-1.2.13/docs/man3/SDL_keysym.3
+@@ -66,4 +66,4 @@
+ .SH "SEE ALSO"
+ .PP
+ \fI\fBSDLKey\fR\fR
+-...\" created by instant / docbook-to-man, Tue 11 Sep 2001, 23:00
++.\" created by instant / docbook-to-man, Tue 11 Sep 2001, 23:00
+--- libsdl1.2-1.2.13.orig/docs/man3/SDL_GetVideoSurface.3
++++ libsdl1.2-1.2.13/docs/man3/SDL_GetVideoSurface.3
+@@ -12,4 +12,4 @@
+ .SH "SEE ALSO"
+ .PP
+ \fI\fBSDL_Surface\fR\fR
+-...\" created by instant / docbook-to-man, Tue 11 Sep 2001, 23:01
++.\" created by instant / docbook-to-man, Tue 11 Sep 2001, 23:01
+--- libsdl1.2-1.2.13.orig/docs/man3/SDL_ListModes.3
++++ libsdl1.2-1.2.13/docs/man3/SDL_ListModes.3
+@@ -50,4 +50,4 @@
+ .SH "SEE ALSO"
+ .PP
+ \fI\fBSDL_SetVideoMode\fP\fR, \fI\fBSDL_GetVideoInfo\fP\fR, \fI\fBSDL_Rect\fR\fR, \fI\fBSDL_PixelFormat\fR\fR
+-...\" created by instant / docbook-to-man, Tue 11 Sep 2001, 23:01
++.\" created by instant / docbook-to-man, Tue 11 Sep 2001, 23:01
+--- libsdl1.2-1.2.13.orig/docs/man3/SDL_QuitSubSystem.3
++++ libsdl1.2-1.2.13/docs/man3/SDL_QuitSubSystem.3
+@@ -12,4 +12,4 @@
+ .SH "SEE ALSO"
+ .PP
+ \fI\fBSDL_Quit\fP\fR, \fI\fBSDL_Init\fP\fR, \fI\fBSDL_InitSubSystem\fP\fR
+-...\" created by instant / docbook-to-man, Tue 11 Sep 2001, 23:00
++.\" created by instant / docbook-to-man, Tue 11 Sep 2001, 23:00
+--- libsdl1.2-1.2.13.orig/docs/man3/SDL_WM_GrabInput.3
++++ libsdl1.2-1.2.13/docs/man3/SDL_WM_GrabInput.3
+@@ -25,4 +25,4 @@
+ .SH "RETURN VALUE"
+ .PP
+ The current/new \fBSDL_GrabMode\fR\&.
+-...\" created by instant / docbook-to-man, Tue 11 Sep 2001, 23:01
++.\" created by instant / docbook-to-man, Tue 11 Sep 2001, 23:01
+--- libsdl1.2-1.2.13.orig/docs/man3/SDL_FillRect.3
++++ libsdl1.2-1.2.13/docs/man3/SDL_FillRect.3
+@@ -19,4 +19,4 @@
+ .SH "SEE ALSO"
+ .PP
+ \fI\fBSDL_MapRGB\fP\fR, \fI\fBSDL_MapRGBA\fP\fR, \fI\fBSDL_BlitSurface\fP\fR, \fI\fBSDL_Rect\fR\fR
+-...\" created by instant / docbook-to-man, Tue 11 Sep 2001, 23:01
++.\" created by instant / docbook-to-man, Tue 11 Sep 2001, 23:01
+--- libsdl1.2-1.2.13.orig/docs/man3/SDL_UnlockSurface.3
++++ libsdl1.2-1.2.13/docs/man3/SDL_UnlockSurface.3
+@@ -14,4 +14,4 @@
+ .SH "SEE ALSO"
+ .PP
+ \fI\fBSDL_LockSurface\fP\fR
+-...\" created by instant / docbook-to-man, Tue 11 Sep 2001, 23:01
++.\" created by instant / docbook-to-man, Tue 11 Sep 2001, 23:01
+--- libsdl1.2-1.2.13.orig/docs/man3/SDL_CloseAudio.3
++++ libsdl1.2-1.2.13/docs/man3/SDL_CloseAudio.3
+@@ -12,4 +12,4 @@
+ .SH "SEE ALSO"
+ .PP
+ \fI\fBSDL_OpenAudio\fP\fR 
+-...\" created by instant / docbook-to-man, Tue 11 Sep 2001, 22:58
++.\" created by instant / docbook-to-man, Tue 11 Sep 2001, 22:58
+--- libsdl1.2-1.2.13.orig/docs/man3/SDL_CreateThread.3
++++ libsdl1.2-1.2.13/docs/man3/SDL_CreateThread.3
+@@ -13,4 +13,4 @@
+ .SH "SEE ALSO"
+ .PP
+ \fI\fBSDL_KillThread\fP\fR
+-...\" created by instant / docbook-to-man, Tue 11 Sep 2001, 23:00
++.\" created by instant / docbook-to-man, Tue 11 Sep 2001, 23:00
+--- libsdl1.2-1.2.13.orig/docs/man3/SDL_JoystickGetBall.3
++++ libsdl1.2-1.2.13/docs/man3/SDL_JoystickGetBall.3
+@@ -34,4 +34,4 @@
+ .SH "SEE ALSO"
+ .PP
+ \fI\fBSDL_JoystickNumBalls\fP\fR
+-...\" created by instant / docbook-to-man, Tue 11 Sep 2001, 23:00
++.\" created by instant / docbook-to-man, Tue 11 Sep 2001, 23:00
+--- libsdl1.2-1.2.13.orig/docs/man3/SDL_SetAlpha.3
++++ libsdl1.2-1.2.13/docs/man3/SDL_SetAlpha.3
+@@ -63,4 +63,4 @@
+ .SH "SEE ALSO"
+ .PP
+ \fI\fBSDL_MapRGBA\fP\fR, \fI\fBSDL_GetRGBA\fP\fR, \fI\fBSDL_DisplayFormatAlpha\fP\fR, \fI\fBSDL_BlitSurface\fP\fR
+-...\" created by instant / docbook-to-man, Tue 11 Sep 2001, 23:01
++.\" created by instant / docbook-to-man, Tue 11 Sep 2001, 23:01
+--- libsdl1.2-1.2.13.orig/docs/man3/SDL_CDStop.3
++++ libsdl1.2-1.2.13/docs/man3/SDL_CDStop.3
+@@ -15,4 +15,4 @@
+ .SH "SEE ALSO"
+ .PP
+ \fI\fBSDL_CDPlay\fP\fR,
+-...\" created by instant / docbook-to-man, Tue 11 Sep 2001, 22:59
++.\" created by instant / docbook-to-man, Tue 11 Sep 2001, 22:59
+--- libsdl1.2-1.2.13.orig/docs/man3/SDL_GetRelativeMouseState.3
++++ libsdl1.2-1.2.13/docs/man3/SDL_GetRelativeMouseState.3
+@@ -12,4 +12,4 @@
+ .SH "SEE ALSO"
+ .PP
+ \fI\fBSDL_GetMouseState\fP\fR
+-...\" created by instant / docbook-to-man, Tue 11 Sep 2001, 22:59
++.\" created by instant / docbook-to-man, Tue 11 Sep 2001, 22:59
+--- libsdl1.2-1.2.13.orig/docs/man3/SDL_JoystickIndex.3
++++ libsdl1.2-1.2.13/docs/man3/SDL_JoystickIndex.3
+@@ -15,4 +15,4 @@
+ .SH "SEE ALSO"
+ .PP
+ \fI\fBSDL_JoystickOpen\fP\fR
+-...\" created by instant / docbook-to-man, Tue 11 Sep 2001, 23:00
++.\" created by instant / docbook-to-man, Tue 11 Sep 2001, 23:00
+--- libsdl1.2-1.2.13.orig/docs/man3/SDL_DestroyMutex.3
++++ libsdl1.2-1.2.13/docs/man3/SDL_DestroyMutex.3
+@@ -13,4 +13,4 @@
+ .SH "SEE ALSO"
+ .PP
+ \fI\fBSDL_CreateMutex\fP\fR
+-...\" created by instant / docbook-to-man, Tue 11 Sep 2001, 23:00
++.\" created by instant / docbook-to-man, Tue 11 Sep 2001, 23:00
+--- libsdl1.2-1.2.13.orig/docs/man3/SDL_mutexP.3
++++ libsdl1.2-1.2.13/docs/man3/SDL_mutexP.3
+@@ -15,4 +15,4 @@
+ .SH "SEE ALSO"
+ .PP
+ \fI\fBSDL_CreateMutex\fP\fR, \fI\fBSDL_mutexV\fP\fR
+-...\" created by instant / docbook-to-man, Tue 11 Sep 2001, 23:01
++.\" created by instant / docbook-to-man, Tue 11 Sep 2001, 23:01
+--- libsdl1.2-1.2.13.orig/docs/man3/SDL_WarpMouse.3
++++ libsdl1.2-1.2.13/docs/man3/SDL_WarpMouse.3
+@@ -12,4 +12,4 @@
+ .SH "SEE ALSO"
+ .PP
+ \fI\fBSDL_MouseMotionEvent\fR\fR
+-...\" created by instant / docbook-to-man, Tue 11 Sep 2001, 23:01
++.\" created by instant / docbook-to-man, Tue 11 Sep 2001, 23:01
+--- libsdl1.2-1.2.13.orig/docs/man3/SDL_SysWMEvent.3
++++ libsdl1.2-1.2.13/docs/man3/SDL_SysWMEvent.3
+@@ -18,4 +18,4 @@
+ .SH "SEE ALSO"
+ .PP
+ \fI\fBSDL_EventState\fP\fR
+-...\" created by instant / docbook-to-man, Tue 11 Sep 2001, 23:00
++.\" created by instant / docbook-to-man, Tue 11 Sep 2001, 23:00
+--- libsdl1.2-1.2.13.orig/docs/man3/SDL_SetClipRect.3
++++ libsdl1.2-1.2.13/docs/man3/SDL_SetClipRect.3
+@@ -16,4 +16,4 @@
+ .SH "SEE ALSO"
+ .PP
+ \fI\fBSDL_GetClipRect\fP\fR, \fI\fBSDL_BlitSurface\fP\fR, \fI\fBSDL_Surface\fR\fR
+-...\" created by instant / docbook-to-man, Tue 11 Sep 2001, 23:01
++.\" created by instant / docbook-to-man, Tue 11 Sep 2001, 23:01
+--- libsdl1.2-1.2.13.orig/docs/man3/SDL_SetGammaRamp.3
++++ libsdl1.2-1.2.13/docs/man3/SDL_SetGammaRamp.3
+@@ -19,4 +19,4 @@
+ .SH "SEE ALSO"
+ .PP
+ \fISDL_SetGamma\fR \fISDL_GetGammaRamp\fR
+-...\" created by instant / docbook-to-man, Tue 11 Sep 2001, 23:01
++.\" created by instant / docbook-to-man, Tue 11 Sep 2001, 23:01
+--- libsdl1.2-1.2.13.orig/docs/man3/SDL_LoadWAV.3
++++ libsdl1.2-1.2.13/docs/man3/SDL_LoadWAV.3
+@@ -39,4 +39,4 @@
+ .SH "SEE ALSO"
+ .PP
+ \fI\fBSDL_AudioSpec\fR\fR, \fI\fBSDL_OpenAudio\fP\fR, \fI\fBSDL_FreeWAV\fP\fR
+-...\" created by instant / docbook-to-man, Tue 11 Sep 2001, 22:58
++.\" created by instant / docbook-to-man, Tue 11 Sep 2001, 22:58
+--- libsdl1.2-1.2.13.orig/docs/man3/SDL_InitSubSystem.3
++++ libsdl1.2-1.2.13/docs/man3/SDL_InitSubSystem.3
+@@ -38,4 +38,4 @@
+ .SH "SEE ALSO"
+ .PP
+ \fI\fBSDL_Init\fP\fR, \fI\fBSDL_Quit\fP\fR, \fI\fBSDL_QuitSubSystem\fP\fR
+-...\" created by instant / docbook-to-man, Tue 11 Sep 2001, 23:00
++.\" created by instant / docbook-to-man, Tue 11 Sep 2001, 23:00
+--- libsdl1.2-1.2.13.orig/docs/man3/SDL_JoystickOpened.3
++++ libsdl1.2-1.2.13/docs/man3/SDL_JoystickOpened.3
+@@ -15,4 +15,4 @@
+ .SH "SEE ALSO"
+ .PP
+ \fI\fBSDL_JoystickOpen\fP\fR, \fI\fBSDL_JoystickClose\fP\fR
+-...\" created by instant / docbook-to-man, Tue 11 Sep 2001, 23:00
++.\" created by instant / docbook-to-man, Tue 11 Sep 2001, 23:00
+--- libsdl1.2-1.2.13.orig/docs/man3/SDL_Delay.3
++++ libsdl1.2-1.2.13/docs/man3/SDL_Delay.3
+@@ -18,4 +18,4 @@
+ .SH "SEE ALSO"
+ .PP
+ \fI\fBSDL_AddTimer\fP\fR
+-...\" created by instant / docbook-to-man, Tue 11 Sep 2001, 23:01
++.\" created by instant / docbook-to-man, Tue 11 Sep 2001, 23:01
+--- libsdl1.2-1.2.13.orig/docs/man3/SDL_GetRGBA.3
++++ libsdl1.2-1.2.13/docs/man3/SDL_GetRGBA.3
+@@ -16,4 +16,4 @@
+ .SH "SEE ALSO"
+ .PP
+ \fISDL_GetRGB\fR, \fISDL_MapRGB\fR, \fISDL_MapRGBA\fR, \fISDL_PixelFormat\fR
+-...\" created by instant / docbook-to-man, Tue 11 Sep 2001, 23:01
++.\" created by instant / docbook-to-man, Tue 11 Sep 2001, 23:01
+--- libsdl1.2-1.2.13.orig/docs/man3/SDL_RemoveTimer.3
++++ libsdl1.2-1.2.13/docs/man3/SDL_RemoveTimer.3
+@@ -22,4 +22,4 @@
+ .SH "SEE ALSO"
+ .PP
+ \fI\fBSDL_AddTimer\fP\fR
+-...\" created by instant / docbook-to-man, Tue 11 Sep 2001, 23:01
++.\" created by instant / docbook-to-man, Tue 11 Sep 2001, 23:01
+--- libsdl1.2-1.2.13.orig/docs/man3/SDL_mutexV.3
++++ libsdl1.2-1.2.13/docs/man3/SDL_mutexV.3
+@@ -15,4 +15,4 @@
+ .SH "SEE ALSO"
+ .PP
+ \fI\fBSDL_CreateMutex\fP\fR, \fI\fBSDL_mutexP\fP\fR
+-...\" created by instant / docbook-to-man, Tue 11 Sep 2001, 23:01
++.\" created by instant / docbook-to-man, Tue 11 Sep 2001, 23:01
+--- libsdl1.2-1.2.13.orig/docs/man3/SDL_CDClose.3
++++ libsdl1.2-1.2.13/docs/man3/SDL_CDClose.3
+@@ -12,4 +12,4 @@
+ .SH "SEE ALSO"
+ .PP
+ \fI\fBSDL_CDOpen\fP\fR, \fI\fBSDL_CD\fR\fR
+-...\" created by instant / docbook-to-man, Tue 11 Sep 2001, 22:58
++.\" created by instant / docbook-to-man, Tue 11 Sep 2001, 22:58
+--- libsdl1.2-1.2.13.orig/docs/man3/SDL_VideoModeOK.3
++++ libsdl1.2-1.2.13/docs/man3/SDL_VideoModeOK.3
+@@ -41,4 +41,4 @@
+ .SH "SEE ALSO"
+ .PP
+ \fI\fBSDL_SetVideoMode\fP\fR, \fI\fBSDL_GetVideoInfo\fP\fR
+-...\" created by instant / docbook-to-man, Tue 11 Sep 2001, 23:01
++.\" created by instant / docbook-to-man, Tue 11 Sep 2001, 23:01
+--- libsdl1.2-1.2.13.orig/docs/man3/SDL_SetColorKey.3
++++ libsdl1.2-1.2.13/docs/man3/SDL_SetColorKey.3
+@@ -23,4 +23,4 @@
+ .SH "SEE ALSO"
+ .PP
+ \fI\fBSDL_BlitSurface\fP\fR, \fI\fBSDL_DisplayFormat\fP\fR, \fI\fBSDL_MapRGB\fP\fR, \fI\fBSDL_SetAlpha\fP\fR
+-...\" created by instant / docbook-to-man, Tue 11 Sep 2001, 23:01
++.\" created by instant / docbook-to-man, Tue 11 Sep 2001, 23:01
+--- libsdl1.2-1.2.13.orig/docs/man3/SDL_VideoInfo.3
++++ libsdl1.2-1.2.13/docs/man3/SDL_VideoInfo.3
+@@ -59,4 +59,4 @@
+ .SH "SEE ALSO"
+ .PP
+ \fI\fBSDL_PixelFormat\fR\fR, \fI\fBSDL_GetVideoInfo\fP\fR
+-...\" created by instant / docbook-to-man, Tue 11 Sep 2001, 23:01
++.\" created by instant / docbook-to-man, Tue 11 Sep 2001, 23:01
+--- libsdl1.2-1.2.13.orig/docs/man3/SDL_FreeCursor.3
++++ libsdl1.2-1.2.13/docs/man3/SDL_FreeCursor.3
+@@ -12,4 +12,4 @@
+ .SH "SEE ALSO"
+ .PP
+ \fISDL_CreateCursor\fR
+-...\" created by instant / docbook-to-man, Tue 11 Sep 2001, 23:01
++.\" created by instant / docbook-to-man, Tue 11 Sep 2001, 23:01
+--- libsdl1.2-1.2.13.orig/docs/man3/SDL_PollEvent.3
++++ libsdl1.2-1.2.13/docs/man3/SDL_PollEvent.3
+@@ -41,4 +41,4 @@
+ .SH "SEE ALSO"
+ .PP
+ \fI\fBSDL_Event\fR\fR, \fI\fBSDL_WaitEvent\fP\fR, \fI\fBSDL_PeepEvents\fP\fR
+-...\" created by instant / docbook-to-man, Tue 11 Sep 2001, 22:59
++.\" created by instant / docbook-to-man, Tue 11 Sep 2001, 22:59
+--- libsdl1.2-1.2.13.orig/docs/man3/SDL_DisplayYUVOverlay.3
++++ libsdl1.2-1.2.13/docs/man3/SDL_DisplayYUVOverlay.3
+@@ -15,4 +15,4 @@
+ .SH "SEE ALSO"
+ .PP
+ \fI\fBSDL_Overlay\fR\fR, \fI\fBSDL_CreateYUVOverlay\fP\fR
+-...\" created by instant / docbook-to-man, Tue 11 Sep 2001, 23:01
++.\" created by instant / docbook-to-man, Tue 11 Sep 2001, 23:01
+--- libsdl1.2-1.2.13.orig/docs/man3/SDL_UserEvent.3
++++ libsdl1.2-1.2.13/docs/man3/SDL_UserEvent.3
+@@ -44,4 +44,4 @@
+ .SH "SEE ALSO"
+ .PP
+ \fI\fBSDL_Event\fR\fR, \fI\fBSDL_PushEvent\fP\fR
+-...\" created by instant / docbook-to-man, Tue 11 Sep 2001, 23:00
++.\" created by instant / docbook-to-man, Tue 11 Sep 2001, 23:00
+--- libsdl1.2-1.2.13.orig/docs/man3/SDL_GLattr.3
++++ libsdl1.2-1.2.13/docs/man3/SDL_GLattr.3
+@@ -44,4 +44,4 @@
+ .SH "SEE ALSO"
+ .PP
+ \fI\fBSDL_GL_SetAttribute\fP\fR, \fI\fBSDL_GL_GetAttribute\fP\fR
+-...\" created by instant / docbook-to-man, Tue 11 Sep 2001, 23:01
++.\" created by instant / docbook-to-man, Tue 11 Sep 2001, 23:01
+--- libsdl1.2-1.2.13.orig/docs/man3/SDL_KeyboardEvent.3
++++ libsdl1.2-1.2.13/docs/man3/SDL_KeyboardEvent.3
+@@ -35,4 +35,4 @@
+ .SH "SEE ALSO"
+ .PP
+ \fI\fBSDL_Event\fR\fR, \fI\fBSDL_keysym\fR\fR, \fI\fBSDL_EnableKeyRepeat\fP\fR, \fI\fBSDL_EnableUNICODE\fP\fR
+-...\" created by instant / docbook-to-man, Tue 11 Sep 2001, 22:59
++.\" created by instant / docbook-to-man, Tue 11 Sep 2001, 22:59
+--- libsdl1.2-1.2.13.orig/docs/man3/SDL_JoystickUpdate.3
++++ libsdl1.2-1.2.13/docs/man3/SDL_JoystickUpdate.3
+@@ -12,4 +12,4 @@
+ .SH "SEE ALSO"
+ .PP
+ \fI\fBSDL_JoystickEventState\fP\fR
+-...\" created by instant / docbook-to-man, Tue 11 Sep 2001, 23:00
++.\" created by instant / docbook-to-man, Tue 11 Sep 2001, 23:00
+--- libsdl1.2-1.2.13.orig/docs/man3/SDL_SetModState.3
++++ libsdl1.2-1.2.13/docs/man3/SDL_SetModState.3
+@@ -32,4 +32,4 @@
+ .SH "SEE ALSO"
+ .PP
+ \fI\fBSDL_GetModState\fP\fR
+-...\" created by instant / docbook-to-man, Tue 11 Sep 2001, 23:00
++.\" created by instant / docbook-to-man, Tue 11 Sep 2001, 23:00
+--- libsdl1.2-1.2.13.orig/docs/man3/SDL_SetEventFilter.3
++++ libsdl1.2-1.2.13/docs/man3/SDL_SetEventFilter.3
+@@ -32,4 +32,4 @@
+ .SH "SEE ALSO"
+ .PP
+ \fI\fBSDL_Event\fR\fR, \fI\fBSDL_GetEventFilter\fP\fR, \fI\fBSDL_PushEvent\fP\fR
+-...\" created by instant / docbook-to-man, Tue 11 Sep 2001, 22:59
++.\" created by instant / docbook-to-man, Tue 11 Sep 2001, 22:59
+--- libsdl1.2-1.2.13.orig/docs/man3/SDL_GL_GetProcAddress.3
++++ libsdl1.2-1.2.13/docs/man3/SDL_GL_GetProcAddress.3
+@@ -45,4 +45,4 @@
+ .SH "SEE ALSO"
+ .PP
+ \fI\fBSDL_GL_LoadLibrary\fP\fR
+-...\" created by instant / docbook-to-man, Tue 11 Sep 2001, 23:01
++.\" created by instant / docbook-to-man, Tue 11 Sep 2001, 23:01
+--- libsdl1.2-1.2.13.orig/docs/man3/SDL_UpdateRect.3
++++ libsdl1.2-1.2.13/docs/man3/SDL_UpdateRect.3
+@@ -16,4 +16,4 @@
+ .SH "SEE ALSO"
+ .PP
+ \fI\fBSDL_UpdateRects\fP\fR, \fI\fBSDL_Rect\fR\fR, \fI\fBSDL_Surface\fR\fR, \fI\fBSDL_LockSurface\fP\fR
+-...\" created by instant / docbook-to-man, Tue 11 Sep 2001, 23:01
++.\" created by instant / docbook-to-man, Tue 11 Sep 2001, 23:01
+--- libsdl1.2-1.2.13.orig/docs/man3/SDL_CDResume.3
++++ libsdl1.2-1.2.13/docs/man3/SDL_CDResume.3
+@@ -15,4 +15,4 @@
+ .SH "SEE ALSO"
+ .PP
+ \fI\fBSDL_CDPlay\fP\fR, \fI\fBSDL_CDPause\fP\fR
+-...\" created by instant / docbook-to-man, Tue 11 Sep 2001, 22:58
++.\" created by instant / docbook-to-man, Tue 11 Sep 2001, 22:58
+--- libsdl1.2-1.2.13.orig/docs/man3/SDL_KillThread.3
++++ libsdl1.2-1.2.13/docs/man3/SDL_KillThread.3
+@@ -13,4 +13,4 @@
+ .SH "SEE ALSO"
+ .PP
+ \fI\fBSDL_CreateThread\fP\fR, \fI\fBSDL_WaitThread\fP\fR
+-...\" created by instant / docbook-to-man, Tue 11 Sep 2001, 23:00
++.\" created by instant / docbook-to-man, Tue 11 Sep 2001, 23:00
+--- libsdl1.2-1.2.13.orig/docs/man3/SDL_SetVideoMode.3
++++ libsdl1.2-1.2.13/docs/man3/SDL_SetVideoMode.3
+@@ -64,4 +64,4 @@
+ .SH "SEE ALSO"
+ .PP
+ \fI\fBSDL_LockSurface\fP\fR, \fI\fBSDL_SetColors\fP\fR, \fI\fBSDL_Flip\fP\fR, \fI\fBSDL_Surface\fR\fR
+-...\" created by instant / docbook-to-man, Tue 11 Sep 2001, 23:01
++.\" created by instant / docbook-to-man, Tue 11 Sep 2001, 23:01
+--- libsdl1.2-1.2.13.orig/docs/man3/SDL_AudioCVT.3
++++ libsdl1.2-1.2.13/docs/man3/SDL_AudioCVT.3
+@@ -65,4 +65,4 @@
+ .SH "SEE ALSO"
+ .PP
+ \fI\fBSDL_BuildAudioCVT\fP\fR, \fI\fBSDL_ConvertAudio\fP\fR, \fI\fBSDL_AudioSpec\fR\fR
+-...\" created by instant / docbook-to-man, Tue 11 Sep 2001, 22:58
++.\" created by instant / docbook-to-man, Tue 11 Sep 2001, 22:58
+--- libsdl1.2-1.2.13.orig/docs/man3/SDL_JoystickOpen.3
++++ libsdl1.2-1.2.13/docs/man3/SDL_JoystickOpen.3
+@@ -48,4 +48,4 @@
+ .SH "SEE ALSO"
+ .PP
+ \fI\fBSDL_JoystickClose\fP\fR
+-...\" created by instant / docbook-to-man, Tue 11 Sep 2001, 23:00
++.\" created by instant / docbook-to-man, Tue 11 Sep 2001, 23:00
+--- libsdl1.2-1.2.13.orig/docs/man3/SDL_SetCursor.3
++++ libsdl1.2-1.2.13/docs/man3/SDL_SetCursor.3
+@@ -12,4 +12,4 @@
+ .SH "SEE ALSO"
+ .PP
+ \fI\fBSDL_GetCursor\fP\fR, \fI\fBSDL_CreateCursor\fP\fR, \fI\fBSDL_ShowCursor\fP\fR
+-...\" created by instant / docbook-to-man, Tue 11 Sep 2001, 23:01
++.\" created by instant / docbook-to-man, Tue 11 Sep 2001, 23:01
+--- libsdl1.2-1.2.13.orig/docs/man3/SDL_SemWait.3
++++ libsdl1.2-1.2.13/docs/man3/SDL_SemWait.3
+@@ -31,4 +31,4 @@
+ .SH "SEE ALSO"
+ .PP
+ \fI\fBSDL_CreateSemaphore\fP\fR, \fI\fBSDL_DestroySemaphore\fP\fR, \fI\fBSDL_SemTryWait\fP\fR, \fI\fBSDL_SemWaitTimeout\fP\fR, \fI\fBSDL_SemPost\fP\fR, \fI\fBSDL_SemValue\fP\fR
+-...\" created by instant / docbook-to-man, Tue 11 Sep 2001, 23:00
++.\" created by instant / docbook-to-man, Tue 11 Sep 2001, 23:00
+--- libsdl1.2-1.2.13.orig/docs/man3/SDL_JoystickGetButton.3
++++ libsdl1.2-1.2.13/docs/man3/SDL_JoystickGetButton.3
+@@ -15,4 +15,4 @@
+ .SH "SEE ALSO"
+ .PP
+ \fI\fBSDL_JoystickNumButtons\fP\fR
+-...\" created by instant / docbook-to-man, Tue 11 Sep 2001, 23:00
++.\" created by instant / docbook-to-man, Tue 11 Sep 2001, 23:00
+--- libsdl1.2-1.2.13.orig/docs/man3/SDL_JoystickNumButtons.3
++++ libsdl1.2-1.2.13/docs/man3/SDL_JoystickNumButtons.3
+@@ -15,4 +15,4 @@
+ .SH "SEE ALSO"
+ .PP
+ \fI\fBSDL_JoystickGetButton\fP\fR, \fI\fBSDL_JoystickOpen\fP\fR
+-...\" created by instant / docbook-to-man, Tue 11 Sep 2001, 23:00
++.\" created by instant / docbook-to-man, Tue 11 Sep 2001, 23:00
+--- libsdl1.2-1.2.13.orig/docs/man3/SDL_JoyAxisEvent.3
++++ libsdl1.2-1.2.13/docs/man3/SDL_JoyAxisEvent.3
+@@ -33,4 +33,4 @@
+ .SH "SEE ALSO"
+ .PP
+ \fI\fBSDL_Event\fR\fR, \fIJoystick Functions\fR, \fI\fBSDL_JoystickEventState\fP\fR, \fI\fBSDL_JoystickGetAxis\fP\fR
+-...\" created by instant / docbook-to-man, Tue 11 Sep 2001, 22:59
++.\" created by instant / docbook-to-man, Tue 11 Sep 2001, 22:59
+--- libsdl1.2-1.2.13.orig/docs/man3/SDL_ResizeEvent.3
++++ libsdl1.2-1.2.13/docs/man3/SDL_ResizeEvent.3
+@@ -25,4 +25,4 @@
+ .SH "SEE ALSO"
+ .PP
+ \fI\fBSDL_Event\fR\fR, \fI\fBSDL_SetVideoMode\fP\fR
+-...\" created by instant / docbook-to-man, Tue 11 Sep 2001, 22:59
++.\" created by instant / docbook-to-man, Tue 11 Sep 2001, 22:59
+--- libsdl1.2-1.2.13.orig/docs/man3/SDL_CreateYUVOverlay.3
++++ libsdl1.2-1.2.13/docs/man3/SDL_CreateYUVOverlay.3
+@@ -14,4 +14,4 @@
+ .SH "SEE ALSO"
+ .PP
+ \fI\fBSDL_Overlay\fR\fR, \fI\fBSDL_DisplayYUVOverlay\fP\fR, \fI\fBSDL_FreeYUVOverlay\fP\fR
+-...\" created by instant / docbook-to-man, Tue 11 Sep 2001, 23:01
++.\" created by instant / docbook-to-man, Tue 11 Sep 2001, 23:01
+--- libsdl1.2-1.2.13.orig/docs/man3/SDL_OpenAudio.3
++++ libsdl1.2-1.2.13/docs/man3/SDL_OpenAudio.3
+@@ -94,4 +94,4 @@
+ .SH "SEE ALSO"
+ .PP
+ \fI\fBSDL_AudioSpec\fP\fR, \fI\fBSDL_LockAudio\fP\fR, \fI\fBSDL_UnlockAudio\fP\fR, \fI\fBSDL_PauseAudio\fP\fR
+-...\" created by instant / docbook-to-man, Tue 11 Sep 2001, 22:58
++.\" created by instant / docbook-to-man, Tue 11 Sep 2001, 22:58
+--- libsdl1.2-1.2.13.orig/docs/man3/SDL_PixelFormat.3
++++ libsdl1.2-1.2.13/docs/man3/SDL_PixelFormat.3
+@@ -137,4 +137,4 @@
+ .SH "SEE ALSO"
+ .PP
+ \fI\fBSDL_Surface\fR\fR, \fI\fBSDL_MapRGB\fP\fR
+-...\" created by instant / docbook-to-man, Tue 11 Sep 2001, 23:01
++.\" created by instant / docbook-to-man, Tue 11 Sep 2001, 23:01
+--- libsdl1.2-1.2.13.orig/docs/man3/SDL_LockYUVOverlay.3
++++ libsdl1.2-1.2.13/docs/man3/SDL_LockYUVOverlay.3
+@@ -15,4 +15,4 @@
+ .SH "SEE ALSO"
+ .PP
+ \fI\fBSDL_UnlockYUVOverlay\fP\fR, \fI\fBSDL_CreateYUVOverlay\fP\fR, \fI\fBSDL_Overlay\fR\fR
+-...\" created by instant / docbook-to-man, Tue 11 Sep 2001, 23:01
++.\" created by instant / docbook-to-man, Tue 11 Sep 2001, 23:01
+--- libsdl1.2-1.2.13.orig/docs/man3/SDL_VideoDriverName.3
++++ libsdl1.2-1.2.13/docs/man3/SDL_VideoDriverName.3
+@@ -15,4 +15,4 @@
+ .SH "SEE ALSO"
+ .PP
+ \fI\fBSDL_Init\fP\fR \fI\fBSDL_InitSubSystem\fP\fR
+-...\" created by instant / docbook-to-man, Tue 11 Sep 2001, 23:01
++.\" created by instant / docbook-to-man, Tue 11 Sep 2001, 23:01
+--- libsdl1.2-1.2.13.orig/docs/man3/SDL_LockSurface.3
++++ libsdl1.2-1.2.13/docs/man3/SDL_LockSurface.3
+@@ -45,4 +45,4 @@
+ .SH "SEE ALSO"
+ .PP
+ \fI\fBSDL_UnlockSurface\fP\fR
+-...\" created by instant / docbook-to-man, Tue 11 Sep 2001, 23:01
++.\" created by instant / docbook-to-man, Tue 11 Sep 2001, 23:01
+--- libsdl1.2-1.2.13.orig/docs/man3/SDL_JoyBallEvent.3
++++ libsdl1.2-1.2.13/docs/man3/SDL_JoyBallEvent.3
+@@ -33,4 +33,4 @@
+ .SH "SEE ALSO"
+ .PP
+ \fI\fBSDL_Event\fR\fR, \fIJoystick Functions\fR, \fI\fBSDL_JoystickEventState\fP\fR, \fI\fBSDL_JoystickGetBall\fP\fR
+-...\" created by instant / docbook-to-man, Tue 11 Sep 2001, 22:59
++.\" created by instant / docbook-to-man, Tue 11 Sep 2001, 22:59
+--- libsdl1.2-1.2.13.orig/docs/man3/SDL_GL_SetAttribute.3
++++ libsdl1.2-1.2.13/docs/man3/SDL_GL_SetAttribute.3
+@@ -37,4 +37,4 @@
+ .SH "SEE ALSO"
+ .PP
+ \fI\fBSDL_GL_GetAttribute\fP\fR, \fIGL Attributes\fR
+-...\" created by instant / docbook-to-man, Tue 11 Sep 2001, 23:01
++.\" created by instant / docbook-to-man, Tue 11 Sep 2001, 23:01
+--- libsdl1.2-1.2.13.orig/docs/man3/SDL_MapRGBA.3
++++ libsdl1.2-1.2.13/docs/man3/SDL_MapRGBA.3
+@@ -19,4 +19,4 @@
+ .SH "SEE ALSO"
+ .PP
+ \fISDL_GetRGB\fR, \fISDL_GetRGBA\fR, \fISDL_MapRGB\fR, \fISDL_PixelFormat\fR
+-...\" created by instant / docbook-to-man, Tue 11 Sep 2001, 23:01
++.\" created by instant / docbook-to-man, Tue 11 Sep 2001, 23:01
+--- libsdl1.2-1.2.13.orig/docs/man3/SDL_WM_ToggleFullScreen.3
++++ libsdl1.2-1.2.13/docs/man3/SDL_WM_ToggleFullScreen.3
+@@ -12,4 +12,4 @@
+ .SH "RETURN VALUE"
+ .PP
+ Returns \fB0\fR on failure or \fB1\fR on success\&.
+-...\" created by instant / docbook-to-man, Tue 11 Sep 2001, 23:02
++.\" created by instant / docbook-to-man, Tue 11 Sep 2001, 23:02
+--- libsdl1.2-1.2.13.orig/docs/man3/SDL_Event.3
++++ libsdl1.2-1.2.13/docs/man3/SDL_Event.3
+@@ -179,4 +179,4 @@
+ .SH "SEE ALSO"
+ .PP
+ \fI\fBSDL_PollEvent\fP\fR, \fI\fBSDL_PushEvent\fP\fR, \fI\fBSDL_PeepEvents\fP\fR
+-...\" created by instant / docbook-to-man, Tue 11 Sep 2001, 22:59
++.\" created by instant / docbook-to-man, Tue 11 Sep 2001, 22:59
+--- libsdl1.2-1.2.13.orig/docs/man3/SDL_SemWaitTimeout.3
++++ libsdl1.2-1.2.13/docs/man3/SDL_SemWaitTimeout.3
+@@ -38,4 +38,4 @@
+ .SH "SEE ALSO"
+ .PP
+ \fI\fBSDL_CreateSemaphore\fP\fR, \fI\fBSDL_DestroySemaphore\fP\fR, \fI\fBSDL_SemWait\fP\fR, \fI\fBSDL_SemTryWait\fP\fR, \fI\fBSDL_SemPost\fP\fR, \fI\fBSDL_SemValue\fP\fR
+-...\" created by instant / docbook-to-man, Tue 11 Sep 2001, 23:00
++.\" created by instant / docbook-to-man, Tue 11 Sep 2001, 23:00
+--- libsdl1.2-1.2.13.orig/docs/man3/SDL_GetAppState.3
++++ libsdl1.2-1.2.13/docs/man3/SDL_GetAppState.3
+@@ -21,4 +21,4 @@
+ .SH "SEE ALSO"
+ .PP
+ \fI\fBSDL_ActiveEvent\fR\fR
+-...\" created by instant / docbook-to-man, Tue 11 Sep 2001, 22:59
++.\" created by instant / docbook-to-man, Tue 11 Sep 2001, 22:59
+--- libsdl1.2-1.2.13.orig/docs/man3/SDL_JoystickNumHats.3
++++ libsdl1.2-1.2.13/docs/man3/SDL_JoystickNumHats.3
+@@ -15,4 +15,4 @@
+ .SH "SEE ALSO"
+ .PP
+ \fI\fBSDL_JoystickGetHat\fP\fR, \fI\fBSDL_JoystickOpen\fP\fR
+-...\" created by instant / docbook-to-man, Tue 11 Sep 2001, 23:00
++.\" created by instant / docbook-to-man, Tue 11 Sep 2001, 23:00
+--- libsdl1.2-1.2.13.orig/docs/man3/SDL_LockAudio.3
++++ libsdl1.2-1.2.13/docs/man3/SDL_LockAudio.3
+@@ -12,4 +12,4 @@
+ .SH "SEE ALSO"
+ .PP
+ \fI\fBSDL_OpenAudio\fP\fR
+-...\" created by instant / docbook-to-man, Tue 11 Sep 2001, 22:58
++.\" created by instant / docbook-to-man, Tue 11 Sep 2001, 22:58
+--- libsdl1.2-1.2.13.orig/docs/man3/SDL_WM_SetIcon.3
++++ libsdl1.2-1.2.13/docs/man3/SDL_WM_SetIcon.3
+@@ -24,4 +24,4 @@
+ .SH "SEE ALSO"
+ .PP
+ \fI\fBSDL_SetVideoMode\fP\fR, \fI\fBSDL_WM_SetCaption\fP\fR
+-...\" created by instant / docbook-to-man, Tue 11 Sep 2001, 23:02
++.\" created by instant / docbook-to-man, Tue 11 Sep 2001, 23:02
+--- libsdl1.2-1.2.13.orig/docs/man3/SDL_FreeYUVOverlay.3
++++ libsdl1.2-1.2.13/docs/man3/SDL_FreeYUVOverlay.3
+@@ -12,4 +12,4 @@
+ .SH "SEE ALSO"
+ .PP
+ \fI\fBSDL_Overlay\fR\fR, \fI\fBSDL_DisplayYUVOverlay\fP\fR, \fI\fBSDL_FreeYUVOverlay\fP\fR
+-...\" created by instant / docbook-to-man, Tue 11 Sep 2001, 23:01
++.\" created by instant / docbook-to-man, Tue 11 Sep 2001, 23:01
+--- libsdl1.2-1.2.13.orig/docs/man3/SDL_AudioSpec.3
++++ libsdl1.2-1.2.13/docs/man3/SDL_AudioSpec.3
+@@ -67,4 +67,4 @@
+ .SH "SEE ALSO"
+ .PP
+ \fI\fBSDL_OpenAudio\fP\fR, \fI\fBSDL_LoadWAV\fP\fR
+-...\" created by instant / docbook-to-man, Tue 11 Sep 2001, 22:58
++.\" created by instant / docbook-to-man, Tue 11 Sep 2001, 22:58
+--- libsdl1.2-1.2.13.orig/docs/man3/SDL_Palette.3
++++ libsdl1.2-1.2.13/docs/man3/SDL_Palette.3
+@@ -23,4 +23,4 @@
+ .SH "SEE ALSO"
+ .PP
+ \fI\fBSDL_Color\fR\fR, \fI\fBSDL_Surface\fR\fR, \fI\fBSDL_SetColors\fP\fR \fI\fBSDL_SetPalette\fP\fR
+-...\" created by instant / docbook-to-man, Tue 11 Sep 2001, 23:01
++.\" created by instant / docbook-to-man, Tue 11 Sep 2001, 23:01
+--- libsdl1.2-1.2.13.orig/docs/man3/SDL_CDName.3
++++ libsdl1.2-1.2.13/docs/man3/SDL_CDName.3
+@@ -20,4 +20,4 @@
+ .SH "SEE ALSO"
+ .PP
+ \fI\fBSDL_CDNumDrives\fP\fR
+-...\" created by instant / docbook-to-man, Tue 11 Sep 2001, 22:58
++.\" created by instant / docbook-to-man, Tue 11 Sep 2001, 22:58
+--- libsdl1.2-1.2.13.orig/docs/man3/SDL_NumJoysticks.3
++++ libsdl1.2-1.2.13/docs/man3/SDL_NumJoysticks.3
+@@ -15,4 +15,4 @@
+ .SH "SEE ALSO"
+ .PP
+ \fI\fBSDL_JoystickName\fP\fR, \fI\fBSDL_JoystickOpen\fP\fR
+-...\" created by instant / docbook-to-man, Tue 11 Sep 2001, 23:00
++.\" created by instant / docbook-to-man, Tue 11 Sep 2001, 23:00
+--- libsdl1.2-1.2.13.orig/docs/man3/SDL_LoadBMP.3
++++ libsdl1.2-1.2.13/docs/man3/SDL_LoadBMP.3
+@@ -15,4 +15,4 @@
+ .SH "SEE ALSO"
+ .PP
+ \fI\fBSDL_SaveBMP\fP\fR
+-...\" created by instant / docbook-to-man, Tue 11 Sep 2001, 23:01
++.\" created by instant / docbook-to-man, Tue 11 Sep 2001, 23:01
+--- libsdl1.2-1.2.13.orig/docs/man3/SDL_AddTimer.3
++++ libsdl1.2-1.2.13/docs/man3/SDL_AddTimer.3
+@@ -35,4 +35,4 @@
+ .SH "SEE ALSO"
+ .PP
+ \fI\fBSDL_RemoveTimer\fP\fR, \fI\fBSDL_PushEvent\fP\fR
+-...\" created by instant / docbook-to-man, Tue 11 Sep 2001, 23:01
++.\" created by instant / docbook-to-man, Tue 11 Sep 2001, 23:01
